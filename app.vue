@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <Button variant="destructive">Click me</Button>
+
   </div>
 </template>
